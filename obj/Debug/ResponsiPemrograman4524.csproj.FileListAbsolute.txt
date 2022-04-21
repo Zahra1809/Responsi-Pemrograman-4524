@@ -1,0 +1,6 @@
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\07\ResponsiPemrograman4524\ResponsiPemrograman4524\bin\Debug\ResponsiPemrograman4524.exe.config
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\07\ResponsiPemrograman4524\ResponsiPemrograman4524\obj\Debug\ResponsiPemrograman4524.csprojResolveAssemblyReference.cache
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\07\ResponsiPemrograman4524\ResponsiPemrograman4524\bin\Debug\ResponsiPemrograman4524.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\07\ResponsiPemrograman4524\ResponsiPemrograman4524\bin\Debug\ResponsiPemrograman4524.pdb
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\07\ResponsiPemrograman4524\ResponsiPemrograman4524\obj\Debug\ResponsiPemrograman4524.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\07\ResponsiPemrograman4524\ResponsiPemrograman4524\obj\Debug\ResponsiPemrograman4524.pdb
